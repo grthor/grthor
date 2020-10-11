@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi 👋 I'm Thorben</h1>
 
 <!--
 **grthor/grthor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div style="float:left; width: 70%">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grthor&show_icons=true" alt="grthor" /></p>
+</div>
